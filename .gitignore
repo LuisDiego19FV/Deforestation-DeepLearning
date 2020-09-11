@@ -1,0 +1,8 @@
+# Pics
+*.png
+*.jpg
+*.jpeg
+
+# Data
+/test
+/train
